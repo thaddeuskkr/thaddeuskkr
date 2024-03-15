@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<center><a href="https://f.tkkr.dev/get/banner.gif"><img src="https://f.tkkr.dev/get/banner.gif" /></a></center>
-
 <p align="center">
+  <img src="assets/banner-modified.gif" /><br>
   I'm <b>Thaddeus Kuah</b>, a 18 year old teenager from Singapore with various hobbies and skills.<br>
   I'm always willing to help others and try new things, and really like technology.<br>
   <i>There isn't much to see here, most of my repositories are private.</i><br>
