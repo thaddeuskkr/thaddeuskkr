@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<p align="center">
-  <img src="https://f.tkkr.dev/get/banner.gif" alt="Banner">
-</p>
+<center><a href="https://f.tkkr.dev/get/banner.gif"><img src="https://f.tkkr.dev/get/banner.gif" /></a></center>
 
 <p align="center">
   I'm <b>Thaddeus Kuah</b>, a 18 year old teenager from Singapore with various hobbies and skills.<br>
