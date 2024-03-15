@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<hr>
 <p align="center">
   <a href="https://f.tkkr.dev/get/banner.gif"><img src="assets/banner-modified.gif" /></a><br>
 </p>
