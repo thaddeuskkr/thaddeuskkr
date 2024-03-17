@@ -10,4 +10,5 @@
 <hr>
 <p align="center">
   <a href="https://tkkr.dev"><img src="https://discord.c99.nl/widget/theme-3/275830234262142978.png"></a>
+  <a href="https://www.last.fm/user/thaddeuskkr"><img src="https://lfm.tkkr.dev/nowplaying?username=thaddeuskkr&height=80&show_username=1"></a>
 </p>
