@@ -9,5 +9,5 @@
 </p>
 <hr>
 <p align="center">
-  <a href="https://tkkr.dev"><img src="https://discord.c99.nl/widget/theme-4/275830234262142978.png"></a>
+  <a href="https://tkkr.dev"><img src="https://lanyard.cnrad.dev/api/275830234262142978"></a>
 </p>
