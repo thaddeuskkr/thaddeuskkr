@@ -7,7 +7,9 @@
   Who knows? I might contribute to yours too! :>
 </p>
 
-<sub align="center">Do check out my pins!</sub>
+<p align="center">
+  <sub>Do check out my pins!</sub>
+</p>
 
 <hr>
 
