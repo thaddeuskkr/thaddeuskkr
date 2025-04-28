@@ -16,6 +16,7 @@
 <details>
   <summary><b>Statistics</b></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=thaddeuskkr&show_icons=true&hide_border=true&theme=transparent&rank_icon=percentile&include_all_commits=true&custom_title=GitHub%20Statistics" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaddeuskkr&layout=compact&theme=transparent&hide_border=true" />
 </details>
 
