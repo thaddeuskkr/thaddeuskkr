@@ -1,6 +1,4 @@
-<a href="https://discord.com/users/275830234262142978">
-  <img align="right" src="https://lanyard-profile-readme.vercel.app/api/275830234262142978?bg=00000000" />
-</a>
+<a href="https://discord.com/users/275830234262142978"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/275830234262142978?bg=0000000&idleMessage=Not%20doing%20anything%20right%20now&showDisplayName=true&hideDecoration=false" /></a>
 
 <h3>Hi, I'm Thaddeus</h3>
 
