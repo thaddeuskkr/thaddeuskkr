@@ -2,7 +2,9 @@
   <img align="right" src="https://lanyard-profile-readme.vercel.app/api/275830234262142978?bg=00000000" />
 </a>
 
-<h2>Hi, I'm Thaddeus</h2>
+<h3>Hi, I'm Thaddeus</h3>
+
+<hr>
 
 <details open>
   <summary><b>About Me</b></summary>
