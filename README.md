@@ -23,11 +23,11 @@
 <details>
   <summary><b>Links</b></summary>
   <ul>
-    <li><a href="https://www.tkkr.dev" target="_blank" rel="noopener noreferrer">Personal Website</a></li>
+    <li><a href="https://www.tkkr.dev" target="_blank" rel="noopener noreferrer">Website</a></li>
     <li><a href="https://github.com/sponsors/thaddeuskkr" target="_blank" rel="noopener noreferrer">Sponsor Me (GitHub Sponsors)</a></li>
     <li><a href="https://www.linkedin.com/in/thaddeuskkr/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
     <li><a href="https://www.last.fm/user/thaddeuskkr" target="_blank" rel="noopener noreferrer">Last.fm</a></li>
-    <li><a href="https://f.tkkr.dev/get/resume.pdf?raw">Resume (PDF)</li>
+    <li><a href="https://f.tkkr.dev/get/resume.pdf">Resume (PDF)</li>
   </ul>
 </details>
 
